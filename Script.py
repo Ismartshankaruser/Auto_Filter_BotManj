@@ -225,15 +225,14 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>
-✯  ━━━━━  ✧  ━━━━  ✧   ━━━━━ ✯
+    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>✯  ━━━━━  ✧  ━━━━  ✧   ━━━━━ ✯
 Join our Backup Chanell 👇
 ➠https://t.me/EpicCastle 
 ➠https://t.me/EpicCastle 
 ➠https://t.me/EpicCastle 
 Join Share & Support ☑
-
-⚠️ Files will be deleted in 3.00 mins. If you want to download this file, kindly forward it to any chat (saved) and start the download. ⚜️ Powered By : <a href="https://t.me/KingKishan">[ Contact Owner ]</a></b>"""
+⚠️ Files will be deleted in 3.00 mins. If you want to download this file, kindly forward it to any chat (saved) and start the download.
+⚜️ Powered By : <a href="https://t.me/KingKishan">[ Contact Owner ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
